@@ -1,0 +1,22 @@
+.trains_but{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    widows: 100% !important;
+    align-items: center;
+}
+.trains_but_cell{
+    width: 80%;
+}
+.trains_but_fav{
+    flex: 1 !important;
+}
+.trains_but_cell  h3,.trains_but_cell_fav h3{
+    overflow: visible !important;
+    word-wrap: anywhere !important;
+    white-space: break-spaces;
+}
+.trains_but_cell .vkuiSimpleCell__content.SimpleCell__content, .trains_but_cell_fav .vkuiSimpleCell__content.SimpleCell__content{
+    flex-wrap: wrap !important;
+    flex-flow: wrap !important;
+}

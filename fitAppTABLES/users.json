@@ -1,0 +1,18 @@
+[{
+  "_id": 111111111,
+  "first_name": "Firstname",
+  "last_name": "SecondName",
+  "sex": 2,
+  "city": {
+    "id": 0,
+    "title": ""
+  },
+  "country": {
+    "id": 1,
+    "title": "CountryTitle"
+  },
+  "photo_100": "link",
+  "photo_max_orig": "link",
+  "photo_200": "link",
+  "timezone": 3
+}]
